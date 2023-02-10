@@ -71,6 +71,6 @@ setup(420, 420, 370, 0)
 hideturtle()
 up()
 tracer(False)
-onscreenclick(tap)
+onscreenclick(tap)'asd'
 move()
 done()
